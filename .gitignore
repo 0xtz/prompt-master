@@ -1,0 +1,17 @@
+# tmp files
+*.log
+*.tmp
+/tmp/*
+!/tmp/.keep
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
+*.log
+
+# My files
+outline.self.md
